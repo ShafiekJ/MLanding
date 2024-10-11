@@ -11,7 +11,7 @@
 }
 #mainHolder{
  
-  height: 100vh;
+  height: 65%;
   background-color: rgba(161, 141, 141, 0.89);
 }
 #bar{
@@ -38,10 +38,11 @@ background-color: green;
 #bannerHolder{
   margin:0;
   padding:0;
+  height:30%;
 }
 #banner{
   width: 100vw;
-  height:30vh;
+  height:100%;
 }
  
  
